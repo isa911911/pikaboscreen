@@ -1,5 +1,8 @@
 # pikaboscreen
-Live mini-viewer for Windows. Select an area of any window (like a game's minimap) and watch it in real time in a small always-on-top window, even when the original window is covered by other apps.
+Live mini-viewer for Windows to PEEK another app that is running in the back. Select an area of any window (like a game's minimap) and watch it in real time in a small always-on-top window, even when the original window is covered by other apps.
+## Demo
+
+https://github.com/user-attachments/assets/9c86b594-f5c5-4b76-ae47-7d03ffb00600
 
 ## Usage
 1. Open the app you want to watch (don't minimize it).
