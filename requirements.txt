@@ -1,0 +1,3 @@
+windows-capture
+pillow
+numpy
